@@ -90,7 +90,7 @@ export const PROJECTS = [
       "My personal portfolio website to showcase my skills, projects, and contact details.",
     technologies: ["React", "TailwindCSS", "Vercel"],
     github: "https://github.com/Riya7070/portfolio",
-    demo: "https://bavithportfolio.vercel.app"
+    demo: "https://riyar.vercel.app"
   },
 
   {
